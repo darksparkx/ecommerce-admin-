@@ -1,11 +1,14 @@
-# Full Stack E-Commerce Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+# Full Stack E-Commerce Dashboard & CMS
+
+#### Made with: 
+Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 Key Features:
 
 -   Shadcn UI used for the interface
--   Our admin dashboard serves as both CMS, Admin and API
+-   The admin dashboard serves as both CMS, Admin and API
 -   You can control mulitple vendors / stores through this single CMS (For example you can have a "Shoe store" and a "Laptop store" and a "Suit store", and the CMS will generate API routes for all of those individually)
 -   You can create, update and delete categories
 -   You can create, update and delete products
